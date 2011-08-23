@@ -1,0 +1,17 @@
+
+This is a very simple gem that finds the largest integer value from the Fibonacci Sequence smaller than the given integer  
+
+-----------------------------------------------
+Install:
+
+gem install hello-gem-0.1.0.gem
+
+-----------------------------------------------
+Test:
+
+>>require 'hello-gem'
+>>156.closest_fibonacci
+
+>>144
+
+The result "144" should be displayed
